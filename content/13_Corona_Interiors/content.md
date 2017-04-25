@@ -1,4 +1,4 @@
-###### Corona Interiors
+## Corona Interiors
 
 Modelled, lit and textured using 3DS Max and Corona Renderer. Post using 
 Photoshop.

@@ -1,4 +1,4 @@
-###### Contact
+## Contact
 
 I'm always open to new opportunities, if you’d like to get in touch about 
 anything at all then feel free to send me an email at 

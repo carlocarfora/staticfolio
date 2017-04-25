@@ -1,4 +1,4 @@
-###### Houdini Car Rig
+## Houdini Car Rig
 
 This is a car rig done as a personal project for an old car model. The finished 
 rig is a digital asset that can be adjusted and set up for use with different car geometry.

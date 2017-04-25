@@ -1,4 +1,4 @@
-###### AWSM Sniper Rifle
+## AWSM Sniper Rifle
 
 Personal project modelled, lit and textured using 3DS Max and Vray. 
 Post using Photoshop/Nuke.

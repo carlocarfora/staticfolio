@@ -1,4 +1,4 @@
-###### Saraya
+## Saraya
 
 This was for a development in Oman. The project scope was huge, over 
 the course of 4 months 8 different animations were created as well as 

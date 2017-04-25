@@ -1,4 +1,4 @@
-###### Helicopter Landing
+## Helicopter Landing
 
 Personal project in Houdini to better understand scene setup, simulating 
 and rendering. Lit and rendered using Mantra, comp in Nuke.

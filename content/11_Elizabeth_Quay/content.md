@@ -1,4 +1,4 @@
-###### Elizabeth Quay
+## Elizabeth Quay
 
 Elizabeth Quay has been the flagship development of the current Perth government. 
 

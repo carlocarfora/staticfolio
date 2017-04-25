@@ -1,4 +1,4 @@
-###### Grand Designs Live
+## Grand Designs Live
 
 I was contracted out by [RewindFX](http://www.rewindfx.com) to work on 
 a commercial spot for Grand Designs Live. I worked on and assisted with 

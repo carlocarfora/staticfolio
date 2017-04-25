@@ -1,4 +1,4 @@
-###### Deus EX: HR Apartment Homage
+## Deus EX: HR Apartment Homage
 
 This project had been sitting on my HDD for a long time, I started it 
 a few years ago but it never got finished. Going through my old files, 

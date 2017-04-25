@@ -1,4 +1,4 @@
-###### Ground Collapse
+## Ground Collapse
 
 Personal project in Houdini to practice and better understand RBD, smoke and 
 particles. Lit and rendered using Mantra, comp in Nuke.

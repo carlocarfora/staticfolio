@@ -1,4 +1,4 @@
-###### About Me
+## About Me
 
 Hello, I'm a 3D/FX Artist from London currently living in Perth, Australia. 
 I have over 6 years of professional experience working on a wide range of 
@@ -18,7 +18,7 @@ After 4+ years focused on Arch Viz, my interest and passion has gravitated
 towards FX in Film/TV. I'm looking forward to future opportunites 
 in this field.
 
-###### Skills
+## Skills
 
 Familiar with all aspects of production from modelling through to rendering 
 and comp, specialising in:
@@ -30,12 +30,12 @@ and comp, specialising in:
 * Knowledgeable in Maxscript and Python
 
 
-###### Software
+## Software
 
 Houdini, 3ds Max, V-Ray, Nuke, After Effects, Photoshop, Premiere
 
 
-###### Downtime
+## Downtime
 
 In my personal time you can usually find me working on 3D projects, exploring 
 and learning new tools and techniques primarily in Houdini.
