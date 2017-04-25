@@ -69,7 +69,7 @@ def create_thumb(src="content", dest="output"):
         im = Image.open(img)
         outfile = img.replace(src, dest)
         im.thumbnail((310, 310), Image.ANTIALIAS)
-        im.save(outfile)
+        im.save(outfile, quality=75, optimize=True)
         print("Saved thumbnail {0} to {1}".format(img, outfile))
 
 
@@ -91,6 +91,6 @@ def resize_images(src="content", dest="output"):
         outfile = img.replace(src, dest)
         im = Image.open(img)
         im.thumbnail((960, 960), Image.ANTIALIAS)
-        im.save(outfile)
+        im.save(outfile, quality=80, optimize=True)
         print("Resized and saved {0} to {1}".format(img, outfile))
         

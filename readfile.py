@@ -114,7 +114,7 @@ def portfolio_grid(src="output"):
         )
 
         html.append(
-            "<div class='item'><a href='{}'><img class='caption' src='{}' alt='{}' /></a></div>".format(
+            "<a href='{}'><img src='{}' /><h3>{}</h3></a>".format(
                 project_name, image_src, alt_text
             )
         )
