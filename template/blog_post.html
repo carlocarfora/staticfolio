@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>(%_title_%)</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="../../css/normalize.css">
+  <link rel="stylesheet" href="../../css/skeleton.css">
+  <link rel="stylesheet" href="../../css/custom.css">
+  <link rel="stylesheet" href="../../css/captionjs.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  
+	<!-- Scripts
+	================================================== -->
+	<script src="../../js/jquery-2.1.0.min.js"></script>
+	<script src="../../js/isotope.pkgd.min.js"></script>
+   <script src="../../js/imagesloaded.pkgd.min.js"></script>
+  <script src="../../js/jquery.caption.js"></script>
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class = "section header">
+    <div class="container">
+      <div class="row">
+        <div class="twelve column">
+          <h3 class="section-heading">(%_logo_%)</h3>
+          <p class="section-description">(%_tagline_%)</p>
+        </div>
+      </div>
+        
+      <div class="row">
+        <div class="twelve column">
+          <p class="section-description">
+            <a href="(%_linkedin_url_%)"><i class="fa fa-linkedin-square fa-2x"></i></a>
+            <a href="(%_vimeo_url_%)"><i class="fa fa-vimeo-square fa-2x"></i></a>
+            <a href="(%_twitter_url_%)"><i class="fa fa-twitter-square fa-2x"></i></a>
+            <a href="(%_flickr_url_%)"><i class="fa fa-flickr fa-2x"></i></a>          
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class = "section">
+    <div class="container navigation">
+      <div class="row">
+        <div class="twelve column">
+            <nav>
+              <ul class="navul">
+                <li class="navli"><a href="../../(%_link1_add_%)">(%_link1_text_%)</a></li>
+                <li class="navli"><a href="../../(%_link2_add_%)">(%_link2_text_%)</a></li>
+                <li class="navli"><a href="../../(%_link3_add_%)">(%_link3_text_%)</a></li>
+                <li class="navli"><a href="../../(%_link4_add_%)">(%_link4_text_%)</a></li>
+                <li class="navli"><a href="../../(%_link6_add_%)">(%_link6_text_%)</a></li>
+              </ul>
+            </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="container project">
+     <div class="row">
+       <div class="twelve columns project-title">
+        <h5 class="blogtitle">(%_blog_title_%)</h5>
+          <p class="blogdate">Posted on (%_blog_date_%)</p> 
+          (%_blog_post_%)
+       </div>
+     </div>
+   </div>
+  
+  
+  <div class="container footer">
+    <div class="row">
+      <div class="twelve column">
+        (%_footer_%)
+      </div>
+    </div>
+  </div>
+  
+<!-- Custom script snippets added here  -->
+
+<script type='text/javascript'>
+    
+// initialize Isotope after all images have loaded
+var $container = $('#isotope-grid').imagesLoaded( function() {
+  $container.isotope({
+    // options
+    itemSelector: '.item',
+    masonry: {
+        columnWidth: 230,
+        gutter: 5
+    }
+  });
+});
+</script>
+
+<script>
+var $container = $('#isotope-grid').imagesLoaded( function() {
+     $('img.caption').captionjs({
+         'mode': 'animated',
+     });
+ });
+ </script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-16269277-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

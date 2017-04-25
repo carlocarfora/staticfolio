@@ -1,0 +1,3 @@
+Just a small update to my AO script that let's you disable hold and fetch if you're working with large files and don't want to wait around. Other minor tweaks include 1/16 AA and disables a couple of other settings too. 
+
+Working on a new quick scene preview script based off my recent experience with RPM, which is awesome for a studio sized pipeline but which I think is a bit overkill for a solo machine or studio doing stills more than animations. It'll be on here when it's in a working state.

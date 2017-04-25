@@ -1,0 +1,5 @@
+Last year me and <a href="http://www.michaelcharalambous.com">Michael Charalambous </a> one of my close friends from home launched a website for mothers day and it was ultimately a success. With 350,000 unique visitors and coming top not only for it's targeted search term but also others it was great fun to work on and watch.
+
+I'm happy to say that <a href="http://www.MothersDay2013.co.uk">MothersDay2013.co.uk</a> has launched, and we think that it'll have the same sort of impact; helping people to find presents easily and narrowing down your options to choosing the perfect gift! Give it a visit if you're curious or need some ideas for what to get your mum for mothers day :)
+
+Edit: If you want to find out more about how we did this, and how you can do something similar you can <a href="http://www.michaelcharalambous.com/seo/earn-2000-in-3-months-mothers-day-offers-quick-cash/">check out Mikes awesome post</a> where he gets into more details, facts, figures and breaks it all down for you!

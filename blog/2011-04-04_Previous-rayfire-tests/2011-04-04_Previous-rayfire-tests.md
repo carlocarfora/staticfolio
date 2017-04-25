@@ -1,0 +1,3 @@
+Here are some previous rayfire tests that I did for a job, didn't quite go too in depth with rayfire in the end but it was nice to learn how it works and I definitely plan on trying to integrate some rayfire into some live action footage later down the line.
+
+<iframe src="https://player.vimeo.com/video/20059645" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/20059645">Rayfire Tests</a> from <a href="https://vimeo.com/carlocarfora">Carlo Carfora</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
