@@ -2640,7 +2640,7 @@
 /* Extra */
 
 	.main {
-		vertical-align: bottom;
+		vertical-align: top;
 
 	}
 
@@ -2655,7 +2655,7 @@
 	#sidebar {
 		width: 30%;
 		display:inline-block;
-		vertical-align: bottom;
+		vertical-align: top;
 		text-align: left;
 
 
