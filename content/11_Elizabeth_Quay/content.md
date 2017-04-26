@@ -1,5 +1,9 @@
 ## Elizabeth Quay
 
+Role: Lead 3D Artist  
+Studio: Last Pixel  
+Year: 2015  
+
 Elizabeth Quay has been the flagship development of the current Perth government. 
 
 As Lead Artist I worked on all aspects of the project from pre-production through to 

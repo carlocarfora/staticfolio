@@ -1,5 +1,9 @@
 ## AWSM Sniper Rifle
 
+Role: 3D Artist  
+Studio: N/A  
+Year: 2011  
+
 Personal project modelled, lit and textured using 3DS Max and Vray. 
 Post using Photoshop/Nuke.
 

@@ -1,5 +1,9 @@
 ## Summer 2011 Showreel
 
+Role: 3D Artist  
+Studio: N/A  
+Year: 2011  
+
 My showreel for 2011, including personal and professional work.
 
 Software used: 3ds Max, Mental Ray, Vray, Fusion, Nuke, Photoshop

@@ -1,5 +1,9 @@
 ## An Accidental Soldier
 
+Role: Compositor  
+Studio: Last Pixel  
+Year: 2013  
+
 I was a compositor for the Telemovie “An Accidental Soldier” at 
 [Last Pixel Studios](http://www.lastpixelstudios.com.au/). Using Nuke I 
 worked on a variety of shots ranging from post camera effects to 

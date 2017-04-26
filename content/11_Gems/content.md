@@ -1,5 +1,9 @@
 ## Gems Singapore
 
+Role: Lead 3D Artist  
+Studio: Last Pixel  
+Year: 2013  
+
 This was a huge project with a dozen or so stills, an animation and an 
 interactive tour with 48 360 panoramas in 6 weeks.
 

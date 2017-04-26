@@ -1,5 +1,9 @@
 ## BMW E92
 
+Role: 3D Artist  
+Studio: N/A  
+Year: 2011  
+
 Modelled, lit and textured using 3DS Max and Mental Ray. Post using 
 Photoshop and Fusion.
 

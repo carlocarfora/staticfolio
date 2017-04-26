@@ -11,9 +11,9 @@ tags = {
         "(%_twitter_url_%)": "http://www.twitter.com/carlo_carfora",
         "(%_flickr_url_%)": "http://www.flickr.com/carlo_c",
         "(%_github_url_%)": "https://github.com/carlocarfora",
-        "(%_logo_%)": '''<img src="images/avatar.jpg" alt="" />''',
-        "(%_tagline_%)": '''Hello, I'm <strong>Carlo Carfora</strong>. An experienced <strong>3D Generalist</strong> with a passion for <strong>FX</strong>.<br /> Here you can find out more <a href="http://www.carlocarfora.co.uk/about.html">about me</a>, check out my <a href="http://www.carlocarfora.co.uk/blog.html">blog</a> and <a href="http://www.carlocarfora.co.uk/contact.html">get in touch</a>!''',
-        "(%_twitter_code_%)": '''<a class="twitter-timeline" data-chrome="noheader noborders transparent" height="300" data-dnt="true" href="https://twitter.com/carlo_carfora" data-widget-id="349595905890086912" data-tweet-limit="4">Tweets by @carlo_carfora</a> <script>!function(Hi, I'm <strong>Carlo Carfora</strong>. An experienced <strong>3D Generalist</strong> with a passion for <strong>FX</strong>. Here you can find out more <a href="#">about me</a>, check out my <a href="#">blog</a> and <a href="#">get in touch</a>!d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>''',
+        "(%_logo_%)": '''<a href ="http://www.carlocarfora.co.uk"><img src="images/avatar.jpg" alt="" /></a>''',
+        "(%_tagline_%)": '''Hello, I'm <strong>Carlo Carfora</strong>. An experienced <strong>3D Generalist</strong> with a passion for <strong>FX</strong>.<br /> Here you can find out more <a href="http://www.carlocarfora.co.uk/about.html">about me</a>, check out my <a href="http://www.carlocarfora.co.uk/blog.html">blog</a> and <a href="http://www.carlocarfora.co.uk/cv.pdf">grab my CV</a>.''',
+        "(%_twitter_code_%)": "",
         "(%_footer_%)": "© 2017 Carlo Carfora – Built with Staticfolio. Design from templated.co"
         }
         

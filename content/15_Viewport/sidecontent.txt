@@ -1,1 +1,0 @@
-{ "(%_role_%)": "3D Artist", "(%_studio_%)": "Freelance", "(%_client_%)": "Viewport", "(%_year_%)": "2016"}

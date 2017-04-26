@@ -1,5 +1,9 @@
 ## Helicopter Landing
 
+Role: 3D/FX Artist  
+Studio: N/A  
+Year: 2015  
+
 Personal project in Houdini to better understand scene setup, simulating 
 and rendering. Lit and rendered using Mantra, comp in Nuke.
 

@@ -1,5 +1,9 @@
 ## Saraya
 
+Role: 3D Artist  
+Studio: Last Pixel  
+Year: 2014  
+
 This was for a development in Oman. The project scope was huge, over 
 the course of 4 months 8 different animations were created as well as 
 dozens of stills.

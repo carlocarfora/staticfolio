@@ -1,5 +1,9 @@
 ## Perth Airport
 
+Role: 3D Artist  
+Studio: Last Pixel  
+Year: 2014  
+
 An interesting one to work on, the scope of the idea being one 
 continous camera made it a challenge as well as the scale of 
 the project.

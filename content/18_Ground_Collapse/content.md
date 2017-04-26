@@ -1,5 +1,9 @@
 ## Ground Collapse
 
+Role: 3D/FX Artist  
+Studio: N/A  
+Year: 2016  
+
 Personal project in Houdini to practice and better understand RBD, smoke and 
 particles. Lit and rendered using Mantra, comp in Nuke.
 
