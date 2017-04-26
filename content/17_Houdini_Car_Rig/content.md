@@ -7,4 +7,6 @@ The rig includes many features that make it simple and powerful to use such as
 artist-adjustable auto steering and suspension, terrain conforming, ability to save out 
 animation data for fast feedback and more.
 
+<div class="video-responsive">
 <iframe src="https://player.vimeo.com/video/150671384" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><a href="https://vimeo.com/150671384">Houdini Car Rig</a> from <a href="https://vimeo.com/carlocarfora">Carlo Carfora</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>

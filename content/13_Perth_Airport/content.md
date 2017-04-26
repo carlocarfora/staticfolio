@@ -15,5 +15,6 @@ and prop placement, shading, lighting and rendering as well as some
 detailed modelling for the fly through camera. I also authored a 360 
 tour of the project.
 
+<div class="video-responsive">
 <iframe src="https://player.vimeo.com/video/103406074" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/103406074">Perth Airport’s Vision</a> from <a href="http://vimeo.com/lastpixel">Last Pixel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+</div>
