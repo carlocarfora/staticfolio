@@ -84,22 +84,22 @@ about_built = readfile.replace_all(about_links, about_dic)
 readfile.write_file(about_built, " ", "output/about.html")
 
 
-staticfunc.print_hr()
-print("Building Resources")
-staticfunc.print_hr()
+# staticfunc.print_hr()
+# print("Building Resources")
+# staticfunc.print_hr()
 
-print("Reading template file")
-resources = readfile.read_files("template/page.html")
-resources_tags = readfile.replace_all(resources, settings.tags)
-resources_links = readfile.replace_all(resources_tags, settings.links)
+# print("Reading template file")
+# resources = readfile.read_files("template/page.html")
+# resources_tags = readfile.replace_all(resources, settings.tags)
+# resources_links = readfile.replace_all(resources_tags, settings.links)
 
-print("Converting markdown to html")
-resources_md = parsemd.parse_markdown("content/resources.md")
-resources_dic = {"(%_page_content_%)": resources_md }
+# print("Converting markdown to html")
+# resources_md = parsemd.parse_markdown("content/resources.md")
+# resources_dic = {"(%_page_content_%)": resources_md }
 
-print("Building/Writing file")
-resources_built = readfile.replace_all(resources_links, resources_dic)
-readfile.write_file(resources_built, " ", "output/resources.html")
+# print("Building/Writing file")
+# resources_built = readfile.replace_all(resources_links, resources_dic)
+# readfile.write_file(resources_built, " ", "output/resources.html")
 
 
 staticfunc.print_hr()
