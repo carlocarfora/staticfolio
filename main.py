@@ -163,14 +163,14 @@ for proj in projects:
     )
     project_dic = {"(%_page_content_%)": project_md}
     
-    print("Adding sidebar information")
-    project_info = (
-        readfile.read_sidebar("content/{}/sidecontent.txt".format(proj))
-    )
-    project_sidebar = readfile.replace_all(project_images, project_info)
+    # print("Adding sidebar information")
+    # project_info = (
+    #     readfile.read_sidebar("content/{}/sidecontent.txt".format(proj))
+    # )
+    # project_sidebar = readfile.replace_all(project_images, project_info)
 
     print("Building/Writing file")
-    project_built = readfile.replace_all(project_sidebar, project_dic )
+    project_built = readfile.replace_all(project_images, project_dic )
     readfile.write_file(
         project_built, " ", "output/{p}.html".format(p=proj))
 

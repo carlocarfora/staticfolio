@@ -1,5 +1,9 @@
 ## Grand Designs Live
 
+Role: Lead 3D Artist    
+Studio: Rewind  
+Year: 2011  
+
 I was contracted out by [RewindFX](http://www.rewindfx.com) to work on 
 a commercial spot for Grand Designs Live. I worked on and assisted with 
 modelling, shading, texturing and rendering shots as well as working on 
