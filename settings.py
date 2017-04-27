@@ -12,7 +12,7 @@ tags = {
         "(%_flickr_url_%)": "http://www.flickr.com/carlo_c",
         "(%_github_url_%)": "https://github.com/carlocarfora",
         "(%_logo_%)": '''<a href ="http://www.carlocarfora.co.uk"><img src="images/avatar.jpg" alt="" /></a>''',
-        "(%_tagline_%)": '''Hello, I'm <strong>Carlo Carfora</strong>. An experienced <strong>3D Generalist</strong> with a passion for <strong>FX</strong>.<br /> Here you can find out more <a href="http://www.carlocarfora.co.uk/about.html">about me</a>, check out my <a href="http://www.carlocarfora.co.uk/blog.html">blog</a> and <a href="http://www.carlocarfora.co.uk/cv.pdf">grab my CV</a>.''',
+        "(%_tagline_%)": '''Hello, I'm <strong>Carlo Carfora</strong>. An experienced <strong>3D Generalist</strong> with a passion for <strong>FX</strong>.<br /> Here you can find out more <a href="http://www.carlocarfora.co.uk/about.html">about me</a>, check out my <a href="http://www.carlocarfora.co.uk/blog.html">blog</a> and <a href="http://www.carlocarfora.co.uk/carlocarfora_cv_2017.pdf">grab my CV</a>.''',
         "(%_twitter_code_%)": "",
         "(%_footer_%)": "© 2017 Carlo Carfora – Built with Staticfolio. Design from templated.co"
         }
