@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a 3D / FX Artist with over 7 years of professional industry experience in London and Australia.
+I'm a 3D / FX Artist with over 7 years of professional industry experience in London and Australia. I'm currently living in London, and am actively looking for opportunites to work in an FX role.
 
 So far over the course of my career, I have worked as a generalist on a wide and varied range of projects from Architecture to TVC and Film. I'm quick to learn new skills, adapt to project workflows and enjoy solving any technical issues should they arise.
 
