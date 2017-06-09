@@ -11,11 +11,13 @@ My aim is to work on projects that push the boundaries of my skills, enable me t
 Familiar with the production pipeline from modelling to comp my strengths lie in; Scene
 Assembly, Lighting, Rendering, FX and general TD tasks.
 
-I have a working knowledge of using Python, VEX and Maxscript. 
+I have a working and usable knowledge of Python, VEX and Maxscript.
+
+Familiar with Windows and Linux.
 
 ## Software
 
-Houdini, 3ds Max, V-Ray, Nuke, After Effects, Photoshop, Premiere
+Houdini, 3ds Max, Mantra, V-Ray, Nuke, After Effects, Photoshop, Premiere
 
 ## Downtime
 

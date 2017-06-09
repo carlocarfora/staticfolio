@@ -17,6 +17,7 @@ Here are the more important specs:
 - 240GB-SSD Intel 540S 240GB SATA 3 M.2 SSD
 - WI8265AC Intel 8265 AC Dual Band WIFI/BT (up to 867 Mbps)
 
+
 It all came in comfortably under $2000 AUD which in USD is under $1500, very reasonable I thought for a laptop with these specs. There are 2 slots for RAM and the motherboard supports up to 32GB, so that's an upgrade I'll definitely be doing in the next 6 months.
 
 The laptop itself is a 14" model and comes in at 2kg so taking it places is quite convenient. It feels solid and well built, nothing makes me think it's extremely flimsy and I've even opened it up to add another SSD which was a very painless process.
