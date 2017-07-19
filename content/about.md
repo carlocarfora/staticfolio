@@ -16,6 +16,7 @@ Familiar with the production pipeline from modelling to comp my strengths are;
 * FX
 * General TD tasks
 
+
 I have a working and usable knowledge of Python, VEX and Maxscript.
 
 Experience with Linux and Windows operating systems.
