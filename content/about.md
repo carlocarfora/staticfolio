@@ -1,28 +1,35 @@
 ## About Me
 
-I'm a 3D / FX Artist with over 7 years of professional industry experience in London and Australia. I'm currently living in London, and am actively looking for opportunites to work in an FX role.
+I am a 3D Artist with a focus on *FX* and *proceduralism* using *Houdini*. With over 7 years of professional industry experience across the UK and Australia, I am now based in London.
 
-So far over the course of my career, I have worked as a generalist on a wide and varied range of projects from Architecture to TVC and Film. I'm quick to learn new skills, adapt to project workflows and enjoy solving any technical issues should they arise.
+So far I have held various roles from 3D Generalist to FX and Lead on a wide and varied range of projects from Architecture to TVC and Film. I now focus my skills and efforts on FX and content creation in Houdini.
 
-My aim is to work on projects that push the boundaries of my skills, enable me to learn and grow, work hard both as a team player and individually while striving to produce something everybody can be proud of!
+My aim is to work on projects that push the boundaries of my skills, enable me to learn and grow, work hard both as a team player and individually while striving to produce something everybody can be proud of.
+
 
 ## Skills
 
-Familiar with the production pipeline from modelling to comp my strengths lie in; Scene
-Assembly, Lighting, Rendering, FX and general TD tasks.
+Familiar with the production pipeline from modelling to comp my strengths are; 
+
+* 3D Generalist Skills (model, shade, light, render)
+* Proceduralism
+* FX
+* General TD tasks
 
 I have a working and usable knowledge of Python, VEX and Maxscript.
 
-Familiar with Windows and Linux.
+Experience with Linux and Windows operating systems.
+
 
 ## Software
 
-Houdini, 3ds Max, Mantra, V-Ray, Nuke, After Effects, Photoshop, Premiere
+Houdini, Mantra, Nuke, 3ds Max, V-Ray, After Effects, Photoshop, Premiere
+
 
 ## Downtime
 
 In my personal time you can usually find me working on 3D projects, exploring 
-and learning new tools and techniques primarily in Houdini.
+and learning new tools and techniques in Houdini.
 
 When I’m not in front of my computer I like to be outdoors, pick up my 
 guitar, take photos(when travelling!), drink tea, read, make lists of 

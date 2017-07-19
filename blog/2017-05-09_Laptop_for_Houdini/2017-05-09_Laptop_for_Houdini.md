@@ -6,7 +6,9 @@ I'll talk a bit about the specific model I ended up getting and my impressions o
 
 I bought my laptop from Metabox which is a custom pc company in Australia. The model I ended up getting from them was the P641HK, confusingly this is actually the P640HK1 chassis on the [Clevo](http://www.clevo.com.tw/clevo_prodetail.asp?id=1013&lang=en) website.
 
-INSERT PICTURE OF LAPTOP HERE
+![](images/laptop_01.jpg)
+
+![](images/laptop_02.jpg)
 
 Here are the more important specs: 
 
@@ -26,11 +28,11 @@ I've put it through some paces; simming Pyro on it, pushing 4k heightmaps using 
 
 The screen itself is very nice, IPS gives it a good viewing angle and I've got no complaints with the quality of the panel. At this size, 4k would have been ridiculous as it can be hard enough at times to see menu items already.
 
-PICTURE OF SCREEN
+![](images/laptop_03.jpg)
 
 The keyboard is OK, nothing to write home about. The low travel and flat caps threw me off a lot at first, so it takes a bit of getting used to. My previous laptop was a Thinkpad so I was a bit spoilt there, best keyboard I've ever used on a laptop IMO. It is backlit, no RGB light just white but it has 5 levels of illumination which is nice for night sessions.
 
-PICTURE OF KEYBOARD
+![](images/laptop_04.jpg)
 
 Battery life is ok at best, with basic usage over wifi I can get around 4 - 4 1/2 hours using the integrated GPU. I have always been plugged in when doing 3D so I don't know how long it would last but I would be surprised if it lasted over an hour with the dGPU enabled.
 
