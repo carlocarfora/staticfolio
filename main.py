@@ -84,22 +84,22 @@ about_built = readfile.replace_all(about_links, about_dic)
 readfile.write_file(about_built, " ", "output/about.html")
 
 
-# staticfunc.print_hr()
-# print("Building Resources")
-# staticfunc.print_hr()
+staticfunc.print_hr()
+print("Building Code")
+staticfunc.print_hr()
 
-# print("Reading template file")
-# resources = readfile.read_files("template/page.html")
-# resources_tags = readfile.replace_all(resources, settings.tags)
-# resources_links = readfile.replace_all(resources_tags, settings.links)
+print("Reading template file")
+resources = readfile.read_files("template/page.html")
+resources_tags = readfile.replace_all(resources, settings.tags)
+resources_links = readfile.replace_all(resources_tags, settings.links)
 
-# print("Converting markdown to html")
-# resources_md = parsemd.parse_markdown("content/resources.md")
-# resources_dic = {"(%_page_content_%)": resources_md }
+print("Converting markdown to html")
+resources_md = parsemd.parse_markdown("content/code.md")
+resources_dic = {"(%_page_content_%)": resources_md }
 
-# print("Building/Writing file")
-# resources_built = readfile.replace_all(resources_links, resources_dic)
-# readfile.write_file(resources_built, " ", "output/resources.html")
+print("Building/Writing file")
+resources_built = readfile.replace_all(resources_links, resources_dic)
+readfile.write_file(resources_built, " ", "output/code.html")
 
 
 staticfunc.print_hr()
@@ -127,13 +127,8 @@ staticfunc.print_hr()
 print("Getting all projects")
 projects = readfile.get_project_dirs()
 
-
 for proj in projects:
-    print("Found these projects: " + proj)
 
-
-for proj in projects:
-    
     print("Reading template files")
     project_page = readfile.read_files("template/project.html")
     project_tags = readfile.replace_all(project_page, settings.tags)
@@ -152,7 +147,8 @@ for proj in projects:
                 #~ while len(tail)
                 #~ print(head)
                 #~ print(tail)
-                image_path.append("<img src='{}'/>".format(img_path))
+                image_path.append(
+                    "<img class='img-responsive' src='{}'/><br />".format(img_path))
             
     image_dic = {"(%_project_images_%)": "\n".join(image_path)}
     project_images = readfile.replace_all(project_links, image_dic)

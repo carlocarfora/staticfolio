@@ -1,13 +1,12 @@
 ## Contact
 
+
+
 I'm always open to new opportunities, if you’d like to get in touch about 
 anything at all then feel free to send me an email at 
 carlo at carlocarfora dot co dot uk :)
 
-Alternatively, you can see what I get up to at any of these social 
-networks: [Twitter][1] - [Flickr][2] - [LinkedIn][3] - [Vimeo][4]
+You can also find me on a variety of social networks, all linked to on the 
+left hand side. If you'd like to dowload a copy of my CV please find it [here][1]
 
-[1]: http://www.twitter.com/carlo_carfora
-[2]: http://www.flickr.com/carlo_c
-[3]: http://www.linkedin.com/in/carlocarfora
-[4]: http://www.vimeo.com/carlocarfora
+[1]:http://www.carlocarfora.co.uk/carlocarfora_cv_2017.pdf

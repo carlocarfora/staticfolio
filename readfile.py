@@ -106,8 +106,6 @@ def portfolio_grid(src="output"):
     no_of_thumbs = len(thumbs)
     thumbs_per_col = math.ceil(no_of_thumbs/3)
 
-
-
     for index, item in enumerate(thumbs):
         item_split = (item.split("/"))
         item_slice = item_split[1][3:]
@@ -119,21 +117,22 @@ def portfolio_grid(src="output"):
             os.path.join(item_split[1], item_split[2])
         )
 
-        if index == 0:
-            html.append("<div>")
-        elif index == thumbs_per_col:
-            html.append("</div><div>")
-        elif index == thumbs_per_col*2:
-            html.append("</div><div>")
         html.append(
-
-            "<a href='{}'><img src='{}' /><h3>{}</h3></a>".format(
+            """
+                <div class='col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item'> 
+                  <div class='box-masonry'><a href='{0}' title='' class='box-masonry-image with-hover-overlay'><img src='{1}' alt='{2}' class='img-responsive'></a>
+                    <div class='box-masonry-hover-text-header'> 
+                      <h4> <a href='{0}'>{2}</a></h4>
+                    </div>
+                  </div>
+                </div>
+            """.format(
                 project_name, image_src, alt_text
             )
         )
 
         if index == no_of_thumbs:
-            html.append("</div>")
+            html.append("")
         
         
     html_joined = " ".join(html)

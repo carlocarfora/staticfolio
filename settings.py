@@ -5,30 +5,28 @@
 # ----------
 
 tags = {
-        "(%_title_%)": "Carlo Carfora - Houdini FX Artist",
+        "(%_title_%)": "Carlo Carfora - Houdini Artist",
         "(%_linkedin_url_%)": "http://www.linkedin.com/in/carlocarfora",
         "(%_vimeo_url_%)": "http://www.vimeo.com/carlocarfora",
         "(%_twitter_url_%)": "http://www.twitter.com/carlo_carfora",
         "(%_flickr_url_%)": "http://www.flickr.com/carlo_c",
         "(%_github_url_%)": "https://github.com/carlocarfora",
         "(%_tumblr_url_%)": "https://carlocarfora.tumblr.com/",     
-        "(%_logo_%)": '''<a href ="http://www.carlocarfora.co.uk"><img src="images/avatar.jpg" alt="" /></a>''',
-        "(%_tagline_%)": '''Hello, I'm <strong>Carlo Carfora</strong>. An experienced <strong>3D Generalist</strong> with a passion for <strong>Houdini and FX</strong>.<br /> Here you can find out more <a href="http://www.carlocarfora.co.uk/about.html">about me</a>, check out my <a href="http://www.carlocarfora.co.uk/blog.html">blog</a> and <a href="http://www.carlocarfora.co.uk/carlocarfora_cv_2017.pdf">grab my CV</a>.''',
+        "(%_logo_%)": 'Carlo Carfora - CG/VFX Artist',
+        "(%_tagline_%)": '''Hi, I am an experienced CG/VFX Artist specialising in Lighting/Rendering and FX using Houdini.''',
         "(%_twitter_code_%)": "",
-        "(%_footer_%)": "© 2017 Carlo Carfora – Built with Staticfolio. Design from templated.co"
+        "(%_footer_%)": "© 2017 Carlo Carfora – Built with Staticfolio"
         }
         
 links = {
-        "(%_link1_add_%)": "index.html",    
-        "(%_link1_text_%)": "Work",
-        "(%_link2_add_%)": "resources.html",    
-        "(%_link2_text_%)": "Resources",
-        "(%_link3_add_%)": "about.html",    
-        "(%_link3_text_%)": "About",
+        "(%_link1_add_%)": "about.html",    
+        "(%_link1_text_%)": "About",
+        "(%_link2_add_%)": "index.html",    
+        "(%_link2_text_%)": "Work",
+        "(%_link3_add_%)": "code.html",    
+        "(%_link3_text_%)": "Code",
         "(%_link4_add_%)": "blog.html",    
         "(%_link4_text_%)": "Blog",
-        "(%_link5_add_%)": "http://www.carlocarfora.co.uk/wiki",    
-        "(%_link5_text_%)": "Wiki",
-        "(%_link6_add_%)": "contact.html",    
-        "(%_link6_text_%)": "Contact",
+        "(%_link5_add_%)": "contact.html",    
+        "(%_link5_text_%)": "Contact"
         }
