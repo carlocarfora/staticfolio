@@ -1,7 +1,7 @@
 ## About
 
 I am a mid-weight CG/VFX Generalist with a current focus on Lighting, Rendering, 
-FX and Houdini. With over 7 years of professional industry experience across 
+FX and Houdini. With over 8 years of professional industry experience across 
 the UK and Australia, I am currently based in London.
 
 I have worked on producing a wide range of digital media including VFX, 

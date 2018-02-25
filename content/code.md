@@ -18,4 +18,9 @@ Features:
  * Handles project management through GUI
  * Lightweight
 
+
+<img class="img-responsive" src="https://raw.githubusercontent.com/carlocarfora/cc-pipe/master/help/ccpipe1.png">
+
+
 [1]:https://github.com/carlocarfora
+
