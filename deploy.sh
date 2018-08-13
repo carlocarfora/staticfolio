@@ -5,6 +5,6 @@ python main.py << end-of-script
 Y
 end-of-script
 deactivate
-cp -rv output/* ../carlocarfora.github.io/
+\cp -rv output/* ../carlocarfora.github.io/
 cd ..
 cd carlocarfora.github.io
