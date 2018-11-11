@@ -22,7 +22,7 @@ def parse_markdown(filename):
     with open(filename, mode="r", encoding="utf8") as f:
         file_md = [lines for lines in f]
         file_string = " ".join(file_md)
-        markdown = mistune.markdown(file_string)
+        markdown = mistune.markdown(file_string, escape=False)
     
     return markdown
 
