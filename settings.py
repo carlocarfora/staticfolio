@@ -5,17 +5,18 @@
 # ----------
 
 tags = {
-        "(%_title_%)": "Carlo Carfora - CG/FX Artist",
+        "(%_title_%)": "Carlo Carfora - CG Artist",
         "(%_linkedin_url_%)": "http://www.linkedin.com/in/carlocarfora",
         "(%_vimeo_url_%)": "http://www.vimeo.com/carlocarfora",
         "(%_twitter_url_%)": "http://www.twitter.com/carlo_carfora",
         "(%_flickr_url_%)": "http://www.flickr.com/carlo_c",
         "(%_github_url_%)": "https://github.com/carlocarfora",
-        "(%_tumblr_url_%)": "https://carlocarfora.tumblr.com/",     
+        "(%_tumblr_url_%)": "https://carlocarfora.tumblr.com/",
+        "(%_instagram_url_%)": "https://www.instagram.com/carlo_c/",
         "(%_logo_%)": 'Carlo Carfora - CG/VFX Artist',
-        "(%_tagline_%)": '''Hi, I am an experienced CG/FX Artist specialising in Lighting/Rendering and FX.''',
+        "(%_tagline_%)": '''A CG Artist curious about all, specialising in Lighting and Rendering.''',
         "(%_twitter_code_%)": "",
-        "(%_footer_%)": "© 2017 Carlo Carfora – Built with Staticfolio"
+        "(%_footer_%)": "© 2019 Carlo Carfora – Built with Staticfolio"
         }
         
 links = {
