@@ -1,8 +1,8 @@
 ## About
 
-I am a CG Artist based in London with over 8 years of professional industry experience both in the UK and Australia.
+Based in London with professional industry experience both in the UK and Australia, over my career I've been fortunate enough to work across a broad range of the 3D industry landscape from Architecture to VFX.
 
-Currently I am at [The Mill][1] where I focus mainly on Lighting and Rendering. I have some technical ability in VEX, scripting and pipelining to help projects run as smoothly as possible.
+As a Lighting and Rendering Supervisor at [The Mill][1], I take on a range of tasks helping the department deliver projects efficiently and to the high Mill standard. I have some technical ability in scripting and problem solving to help find solutions in a production environment . 
 
 #### Skills
 
@@ -17,7 +17,7 @@ Houdini, Mantra, Nuke, 3ds Max, Maya, V-Ray, Arnold
 
 #### Scripting
 
-Python, PyQt, Maxscript
+Python, PyQt
 
 #### Downtime
 
