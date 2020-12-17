@@ -3,6 +3,7 @@
 import os
 import settings
 import ast
+import math
 
 def read_sidebar(filename):
     """ Reads a text file and evaluates it as a python dict.
@@ -102,7 +103,10 @@ def portfolio_grid(src="output"):
 
     thumbs.sort(reverse=True)
     
-    for item in thumbs:
+    no_of_thumbs = len(thumbs)
+    thumbs_per_col = math.ceil(no_of_thumbs/3)
+
+    for index, item in enumerate(thumbs):
         item_split = (item.split("/"))
         item_slice = item_split[1][3:]
         alt_text = item_slice.replace("_", " ")
@@ -114,10 +118,22 @@ def portfolio_grid(src="output"):
         )
 
         html.append(
-            "<div class='item'><a href='{}'><img class='caption' src='{}' alt='{}' /></a></div>".format(
+            """
+                <div class='col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item'> 
+                  <div class='box-masonry'><a href='{0}' title='' class='box-masonry-image with-hover-overlay'><img src='{1}' alt='{2}' class='img-responsive'></a>
+                    <div class='box-masonry-hover-text-header'> 
+                      <h4> <a href='{0}'>{2}</a></h4>
+                    </div>
+                  </div>
+                </div>
+            """.format(
                 project_name, image_src, alt_text
             )
         )
+
+        if index == no_of_thumbs:
+            html.append("")
+        
         
     html_joined = " ".join(html)
     html_dic = {"(%_portfolio_grid_%)": html_joined}

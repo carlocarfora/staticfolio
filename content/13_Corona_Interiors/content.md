@@ -1,4 +1,8 @@
-###### Corona Interiors
+## Corona Interiors
+
+Role: 3D Artist  
+Studio: N/A  
+Year: 2014  
 
 Modelled, lit and textured using 3DS Max and Corona Renderer. Post using 
 Photoshop.
