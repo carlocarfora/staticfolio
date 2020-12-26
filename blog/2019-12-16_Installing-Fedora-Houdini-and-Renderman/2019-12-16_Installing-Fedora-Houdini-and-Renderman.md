@@ -1,5 +1,3 @@
-## Installing Fedora Houdini and Renderman
-
 This is a guide on setting up a system with Fedora, Houdini and Renderman. There were a few obstacles along the way and hopefully this can help anyone who might want to do the same thing. You may not have the same issues I did, but I had to do some extensive googling to find the answers to issues so hope this helps!
 
 #### Installing Fedora with Optimus
